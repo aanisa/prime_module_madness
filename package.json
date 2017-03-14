@@ -1,0 +1,12 @@
+{
+  "name": "prime_day_7",
+  "version": "1.0.0",
+  "description": "peer challenge day 7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anisa",
+  "license": "ISC",
+  "description": "peer challenge day 7"
+}
